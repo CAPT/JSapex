@@ -1,0 +1,46 @@
+<div class="modalDialog" id="openModal">
+	<div>
+		<a title="Закрыть" class="close" href="#close">X</a> <p>Если у Вас возникли проблемы при создании исходящего сообщения: вместо текста видны символы вроде <strong>РґСЂР°Р·РґРµР</strong>, то вам надо выполнить следующие действия: </p>
+		<ul>
+			<li>Зайти в Outlook</li>
+			<li>Нажать Файл-Параметры</li>
+			<li>
+				<img src="/eOffice/claims/SiteAssets/Pages/default/pre_otlk_utf.png" alt=""/>
+			</li>
+			<li>В появившемся окне необходимо пролистать до части «язык» и установить отмеченную галочку.</li>
+			<li>
+				<img src="/eOffice/claims/SiteAssets/Pages/default/otlk_utf.png" alt="" style="width: 550px"/>
+			</li>
+			<li>После всех манипуляций, закрыть Internet Explorer, outlook , запустить их заново, попробовать создать заявку.</li>
+		</ul>
+	</div>
+</div>
+<div class="main_claim">
+	<div class="sec div_claim" id="two_c">
+		<p class="ico_claim">&#160;</p><p>Заказ визиток</p>
+	</div>
+	<div class="fourth div_claim" id="four_c">
+		<p class="ico_claim">&#160; </p><p>Заявки на автотранспорт </p>
+	</div>
+	<div class="fifth div_claim" id="five_c">
+		<p class="ico_claim">&#160; </p><p>Заявки на канцелярию </p>
+	</div>
+	<!--<div class="sixth div_claim" id="six_c">
+		<p class="ico_claim">&#160; </p><p>Заявки, связанные с командировками </p>
+	</div>-->
+	<div class="seventh div_claim" id="seven_c">
+		<p class="ico_claim">&#160; </p><p>Заявки на выдачу документов из архива </p>
+	</div>
+	<!--<div class="eighth div_claim" id="seven_c">
+		<p class="ico_claim">&#160; </p><p>Заявки по эксплуатации помещений </p>
+	</div>-->
+	<div class="help_claim" id="help_claim">
+		<a class="claim_link" href="/eOffice/claims/SiteAssets/Pages/default/modaltest.html" target="_blank">
+			<p class="claim_link_p">Помощь при проблемах с заявками </p>
+		</a>
+	</div>
+</div>
+<div class="claim_label">Документы для командировок</div>​​​​<a class="claim_link" href="/eOffice/claims/SiteAssets/Pages/default/komand_claim.docx">Форма заявки на командирование</a>​​​​​​​​​<br/>​​​​<a class="claim_link" href="/eOffice/claims/SiteAssets/Pages/default/otchet.docx">Расширенный отчет о выполнении служебного задания</a>​​​​​​​​​<br/>
+<a class="claim_link" href="/eOffice/claims/SiteAssets/Pages/default/av_otch.xls">Форма авансового отчета</a>
+<br/>
+<div class="claim_label">Документы для канцелярии</div>​​​​<a class="claim_link" href="/eOffice/claims/SiteAssets/Pages/default/canc.docx">Форма заявки на канцелярию</a>​​​​​​​​​​​​​ ​​​​ ​
