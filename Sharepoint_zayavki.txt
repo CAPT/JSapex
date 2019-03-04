@@ -1,3 +1,5 @@
+snippet to insert
+
 <div class="modalDialog" id="openModal">
 	<div>
 		<a title="Закрыть" class="close" href="#close">X</a> <p>Если у Вас возникли проблемы при создании исходящего сообщения: вместо текста видны символы вроде <strong>РґСЂР°Р·РґРµР</strong>, то вам надо выполнить следующие действия: </p>
