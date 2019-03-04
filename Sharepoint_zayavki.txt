@@ -1,4 +1,4 @@
-snippet to insert
+<!-- snippet to insert -->
 
 <div class="modalDialog" id="openModal">
 	<div>
