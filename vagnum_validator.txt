@@ -1,13 +1,12 @@
-	
-					<div class="left">
-						<span class="errorMsg" style="display: none;">Введите 8-ми значный номер вагона</span>
-						<label for="vagnum">Номер вагона</label>
-							<input type="text" id="vagnum" name="vagnum" title="Введите 8-ми значный номер вагона"/>
-              <button id="go">
+<div class="left">
+	<span class="errorMsg" style="display: none;">Введите 8-ми значный номер вагона</span>
+	<label for="vagnum">Номер вагона</label>
+	<input type="text" id="vagnum" name="vagnum" title="Введите 8-ми значный номер вагона"/>
+        <button id="go">
               GO
-              </button>
-							<!--<input type="number" max="99999999" min="00000001" maxlength="8" name="vagnum" required title="Введите 8-ми значный номер вагона"/>-->
-						</div>
+         </button>
+<!--<input type="number" max="99999999" min="00000001" maxlength="8" name="vagnum" required title="Введите 8-ми значный номер вагона"/>-->
+</div>
 
 
 $('#go').click(function(){
